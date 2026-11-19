@@ -240,4 +240,102 @@ This project analyzes monthly financial data to provide a clearer picture of bus
 
 I follow a structured approach to transform raw data into business insights.
 
-|
+| Step | Process | Description |
+|---|---|---|
+| 01 | Business Understanding | Define the business problem and objectives. |
+| 02 | Data Collection | Understand available datasets and data sources. |
+| 03 | Data Cleaning | Identify missing values, duplicates, and inconsistencies. |
+| 04 | Data Exploration | Explore patterns, trends, and relationships. |
+| 05 | SQL Analysis | Query, filter, aggregate, and analyze data. |
+| 06 | Python Analysis | Perform deeper analysis using Pandas and NumPy. |
+| 07 | Data Visualization | Present findings through charts and dashboards. |
+| 08 | Business Insights | Translate analytical results into actionable recommendations. |
+
+---
+
+# 📈 What These Projects Demonstrate
+
+Through these projects, I aim to demonstrate my ability to:
+
+- Transform raw datasets into structured information.
+- Analyze complex business problems.
+- Write SQL queries for business analysis.
+- Perform data cleaning and exploratory data analysis using Python.
+- Identify trends, patterns, and business opportunities.
+- Build meaningful business metrics and KPIs.
+- Communicate analytical findings clearly.
+- Translate data into practical business recommendations.
+
+---
+
+# 📂 Repository Structure
+
+```text
+data-analyst-portfolio/
+│
+├── README.md
+│
+├── 01-saas-business-analytics/
+│   ├── data/
+│   ├── sql/
+│   ├── notebooks/
+│   ├── dashboard/
+│   ├── analysis.py
+│   └── README.md
+│
+├── 02-ecommerce-sales-analytics/
+│   ├── data/
+│   ├── sql/
+│   ├── notebooks/
+│   ├── dashboard/
+│   ├── analysis.py
+│   └── README.md
+│
+├── 03-customer-segmentation-rfm/
+│   ├── data/
+│   ├── sql/
+│   ├── notebooks/
+│   ├── analysis.py
+│   └── README.md
+│
+├── 04-marketing-performance-analytics/
+│   ├── data/
+│   ├── sql/
+│   ├── notebooks/
+│   ├── dashboard/
+│   ├── analysis.py
+│   └── README.md
+│
+└── 05-financial-business-analytics/
+    ├── data/
+    ├── sql/
+    ├── notebooks/
+    ├── dashboard/
+    ├── analysis.py
+    └── README.md
+```
+
+---
+
+# 🚀 Project Status
+
+These projects are being developed as practical portfolio case studies.
+
+The datasets are synthetic and created for analytical demonstration. They do not represent actual company performance or real customer records.
+
+Dashboard specifications are included to guide Power BI development. Actual dashboard files and screenshots will be added as each dashboard is completed.
+
+---
+
+# 📬 Let's Connect
+
+I am interested in Data Analyst, Business Intelligence, and Business Analyst opportunities.
+
+If you are looking for someone who enjoys exploring data, understanding business problems, and transforming data into business value, let's connect!
+
+**Hossein Mortazavi**
+
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/seyedmohammadhossein-mortazavi/)
+- GitHub: [Explore my repositories](https://github.com/hossein-mortazavi)
+
+**Transforming Data into Business Value.**
